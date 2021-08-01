@@ -1,0 +1,11 @@
+.todo-item{
+    text-align: left;
+    font-size: large;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.todo-item.completed{
+    font-style: italic;
+    text-decoration: line-through;
+}
